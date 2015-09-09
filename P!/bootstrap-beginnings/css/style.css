@@ -1,0 +1,27 @@
+/* colours Red #EC185B Light Red #f69680 Yellow #FDB813 Light Yellow #FFD88F 
+Teal #00A79D Light Teal #78CCD0 Slate #C0BEB7 Cloud #EAE5DA Dark Indigo #232439*/
+
+/*Backgrounds by <a href="http://subtlepatterns.com/">Subtle Patterns</a>*/
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	background-color: black;
+	color: white;
+	background-image:url('../images/stardust.png');
+}
+
+header a.logoclear {
+	background: transparent;
+}
+
+header a.logoclear img {
+	max-width:100px;
+}
